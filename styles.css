@@ -1,0 +1,8 @@
+div {
+	min-height:50px;
+	text-align:center;
+	border: 1px solid silver;
+}
+.bg{
+	background-color:red;
+}
